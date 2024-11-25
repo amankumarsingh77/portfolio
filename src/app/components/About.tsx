@@ -10,20 +10,20 @@ const stats = [
   { label: 'User Scale', value: '660K+' }
 ];
 
-const experiences = [
-  {
-    title: 'Backend Developer',
-    company: 'Team Shiksha',
-    period: 'Jan 2024 - Present',
-    type: 'Remote',
-    achievements: [
-      'Led database migration POC from Firebase to MongoDB',
-      'Developed comprehensive unit and integration tests',
-      'Reduced login latency by 40% through API optimization',
-      'Improved system reliability and maintainability'
-    ]
-  }
-];
+// const experiences = [
+//   {
+//     title: 'Backend Developer',
+//     company: 'Team Shiksha',
+//     period: 'Jan 2024 - Present',
+//     type: 'Remote',
+//     achievements: [
+//       'Led database migration POC from Firebase to MongoDB',
+//       'Developed comprehensive unit and integration tests',
+//       'Reduced login latency by 40% through API optimization',
+//       'Improved system reliability and maintainability'
+//     ]
+//   }
+// ];
 
 const education = {
   degree: 'Bachelor of Technology',

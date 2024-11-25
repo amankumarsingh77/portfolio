@@ -25,12 +25,12 @@ const stats = [
 //   }
 // ];
 
-const education = {
-  degree: 'Bachelor of Technology',
-  institution: 'KL University',
-  location: 'Aziznagar, Hyderabad',
-  period: '2020 - 2024'
-};
+// const education = {
+//   degree: 'Bachelor of Technology',
+//   institution: 'KL University',
+//   location: 'Aziznagar, Hyderabad',
+//   period: '2020 - 2024'
+// };
 
 const interests = [
   {
